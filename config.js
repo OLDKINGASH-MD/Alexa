@@ -11,6 +11,5 @@ MODE: process.env.MODE || "public",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
-AUTO_SAVE_STATUS: process.env.AUTO_SAVE_STATUS || "true",
 AUTO_VOICE: process.env.AUTO_VOICE || "true",
 };
